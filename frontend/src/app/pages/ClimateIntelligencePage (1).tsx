@@ -1498,6 +1498,7 @@ export function ClimateIntelligencePage() {
           </motion.div>
 
         </div>
+        </div>
       </div>
     </div>
   );
