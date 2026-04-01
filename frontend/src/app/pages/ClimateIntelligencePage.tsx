@@ -1568,12 +1568,6 @@ function MetricCard({
             style={{ background: `linear-gradient(90deg, ${color}80, ${color})` }}
           />
         </div>
-          </div>
-          )}
-        </div>
-          </div>
-          )}
-        </div>
       </div>
     </div>
   );
