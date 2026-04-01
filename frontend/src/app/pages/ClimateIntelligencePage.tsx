@@ -1570,6 +1570,9 @@ function MetricCard({
           </div>
           )}
         </div>
+          </div>
+          )}
+        </div>
       </div>
     </div>
   );
