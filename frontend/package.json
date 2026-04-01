@@ -1,4 +1,3 @@
-cat > frontend/package.json << 'EOF'
 {
   "name": "weatherxpert-frontend",
   "private": true,
@@ -79,4 +78,3 @@ cat > frontend/package.json << 'EOF'
     "vite": "6.3.5"
   }
 }
-EOF
